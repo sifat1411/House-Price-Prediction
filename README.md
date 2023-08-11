@@ -36,7 +36,7 @@ I would like to express my gratitude to Bharat Intern for providing me with the 
 
 If you have any questions, suggestions, or collaboration opportunities, feel free to reach out to me on LinkedIn or via email.
 
-LinkedIn: [Sifat Hora](https://www.linkedin.com/in/yourprofile/)
+LinkedIn: [Sifat Hora](https://www.linkedin.com/in/sifat-hora-b4372a204/)
 Email: horasifat001@gmail.com
 
 Thank you for your interest in my House Price Prediction Project!
